@@ -1,0 +1,19 @@
+﻿h1 {
+    color: white;
+    text-shadow: -4px -1px 10px #000000;
+}
+
+.jumbotron {
+    background: url("/images/coffeeheader.jpeg") no-repeat center center;
+}
+
+
+footer {
+    background-color: #f2f2f2;
+    padding: 10px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
